@@ -1,0 +1,11 @@
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Docker
+.dockerignore
+
+# Visual Studio
+.vs/
+*.user
